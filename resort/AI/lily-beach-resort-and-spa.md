@@ -1,5 +1,11 @@
 # Lily Beach Resort & Spa (莉莉海滩度假村)
 
+```
+?星
+价格: ??
+只有沙滩房
+```
+
 Lily Beach Resort & Spa是马尔代夫最受旅客欢迎的全包岛之一，食物质素高，加上顶级的浮潜环境，性价比很高，无论Honeymoon或亲子游都一样适合。房型方面，酒店除了沙滩屋和水上屋外，还有一种半沙半水的 Lagoon Vila。
 
 ![图片1](https://www.daydaytravel.hk/wp-content/uploads/2019/06/Lily-Beach-Resort-Spa-island.jpg)

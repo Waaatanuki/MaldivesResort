@@ -1,5 +1,11 @@
 # OBLU SELECT Lobigili (奥静洛碧吉利岛)
 
+```
+3.5星
+价格: 33356 +9545 = 42901
+```
+https://www.coloursofoblu.com/oblu-select-lobigili
+
 OBLU SELECT Lobigili是现时TripAdvisor最好评的马尔代夫酒店之一，酒店各方面都十分出色，其推出的全包方案性价比十分高，除了包饮包食外，还提供免费来回接送及一些出海Excursions。
 酒店只招待成人，而且设有于海平面6.8米之下的水底餐厅，绝对是情侣Honeymoon浪漫之选。位置亦十分方便，距离马里机场只需15分钟船程。房间同时设有水上屋及沙滩屋。
 

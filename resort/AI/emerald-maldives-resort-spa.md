@@ -1,5 +1,9 @@
 # Emerald Maldives Resort & Spa (马尔代夫翡翠岛度假村及水疗中心)
 
+```
+不送spass
+```
+
 Emerald Maldives Resort & Spa于马尔代夫全包岛酒店当中，价格虽不是最低，但整体质量肯定是最好的前几间，从其TripAdvisor马尔代夫酒店排名长期名列前茅就可知一二。酒店浮潜环境佳，餐厅食物质素高，房间更加是超级大，水上屋及沙滩屋的最入门房型已达176平方米，比其他大部分马尔代夫酒店的基本房型都要大。酒店同时设有面积很大的Kids Club。
 
 ![图片1](https://www.daydaytravel.hk/wp-content/uploads/2019/06/emerald-maldives-resort-spa-all-inclusive-plan.jpg)

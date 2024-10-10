@@ -1,5 +1,10 @@
 # Ozen Life Maadhoo (马尔地夫奥臻岛度假酒店)
 
+```
+3.5星
+价格:  42854 +12167=55021
+```
+
 属于马尔代夫Atmosphere酒店集团旗下最高端的酒店之一，Ozen Life Maadhoo自开幕至今，其一价全包方案深受旅客喜爱，评分超高！度假村内餐厅选择多，如入住四晚或以上，更包括了一次水底餐厅用餐体验，方案内包括的活动体验亦很多，Spa Treatment、日落钓鱼船河及无限次出海浮潜等，还提供了免费快艇来回接送服务，是马尔代夫最强的一价全包方案！房间亦十分宽敞，入门沙滩屋房型Earth Villa达185平方米，水上屋房型亦有112平方米。
 
 ![图片1](https://www.daydaytravel.hk/wp-content/uploads/2019/06/ozen-life-maadhoo.jpg)

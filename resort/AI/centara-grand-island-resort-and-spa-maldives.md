@@ -1,5 +1,9 @@
 # Centara Grand Island Resort & Spa Maldives (盛泰澜马尔地夫中央格兰德岛)
 
+```
+1星 莫名其妙4人间
+```
+
 Centara Grand Island Resort & Spa Maldives是一个非常受欢迎的全包岛，性价比很高，房间宽敞，餐饮选择多，拥有很好的浮潜和水底环境，酒店附近更有一个沉船残骸，是马尔代夫其中一个顶级潜点。酒店的房型选择有很多，包括水上屋及沙滩屋，面积从86平方米起。
 
 ![图片1](https://www.daydaytravel.hk/wp-content/uploads/2019/06/Centara-Grand-Island-Resort-Spa-Maldives-2.jpg)
