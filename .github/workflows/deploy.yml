@@ -32,19 +32,20 @@ jobs:
         with:
           fetch-depth: 0 # Not needed if lastUpdated is not enabled
       - name: Setup Node
-        uses: pnpm/action-setup@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
-      - name: Install dependencies
-        run: pnpm install
-      - name: Build with VitePress
-        run: |
-          pnpm docs:build
-          touch .vitepress/dist/.nojekyll
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3.0.1
+        uses: actions/setup-node@v4
         with:
-          path: .vitepress/dist
+          node-version: 20
+          cache: pnpm # or pnpm / yarn
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Install dependencies
+        run: pnpm install # or pnpm install / yarn install / bun install
+      - name: Build with VitePress
+        run: pnpm docs:build # or pnpm docs:build / yarn docs:build / bun run docs:build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs/.vitepress/dist
 
   # Deployment job
   deploy:
@@ -57,4 +58,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
