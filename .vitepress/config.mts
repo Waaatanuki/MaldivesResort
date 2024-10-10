@@ -14,11 +14,12 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
-        ],
+        text: "怎么选酒店",
+        link: "/how-select-resort",
+      },
+      {
+        text: "十大全价酒店",
+        items: [{ text: "Runtime API Examples", link: "/api-examples" }],
       },
     ],
 
