@@ -58,8 +58,6 @@
 
 近年愈来愈多酒店都提供一价全包方案，而且很受旅客欢迎，主要原因是不用担心超预算，整个旅程可以尽情吃喝。
 
-如果你想找全包岛，可以参考我的<strong><span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.daydaytravel.hk/best-maldives-all-inclusive-hotels/">马尔代夫10间超好评全包岛酒店必住推介</a></span></strong>。
-
 我个人就较偏好Half Board，因为一般顶级马尔代夫酒店的自助早餐都很丰盛，吃完已经很饱，午餐很多时候都再吃不下，所以我通常中午都只是吃一些零食就足够。
 
 ## 6. 与马里机场的距离
