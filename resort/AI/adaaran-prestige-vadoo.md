@@ -1,11 +1,6 @@
 # Adaaran Prestige Vadoo (瓦杜阿达郎尊享度假村)
 
-```
-3星
-价格: 29,003元 +8,344元 = 37347
-```
-
-[官网](https://www.adaaran.com/prestigevadoo/all-inclusive-offering.html)
+[酒店官网](https://www.adaaran.com/prestigevadoo/all-inclusive-offering.html)
 
 Adaaran Prestige Vadoo是个面积不大的小岛，只招待成人入住，岛上全部是水上屋，面积从95平方米起，十分宽敞，而且有十分漂亮的House Reef，餐饮质量也很不错。位置距离马里很近，乘快艇即可入岛，十分方便。
 

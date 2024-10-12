@@ -1,9 +1,5 @@
 # Constance Moofushi (康斯丹魔富士度假村)
 
-```
-房间没泳池pass
-```
-
 Constance Moofushi是个面积不大的宁静小岛，主张simplicity+luxury概念，很适合Honeymoon，网上评语十分好，食物亦很出色，海水能见度达20-25米，毗邻世界著名潜点，水底世界十分精彩，附近海域更加可以看到鲸鲨踪影。设有水上屋和沙滩屋房型。
 
 ![图片1](https://www.daydaytravel.hk/wp-content/uploads/2019/06/Constance-Moofushi-Maldives.jpg)

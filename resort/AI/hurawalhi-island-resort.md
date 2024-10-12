@@ -1,11 +1,5 @@
 # Hurawalhi Island Resort (胡拉瓦尔西岛度假村)
 
-```
-?星
-价格: ??
-性价比低pass
-```
-
 Hurawalhi Island Resort在Tripadvisor马尔代夫酒店中排名很高。度假村只招待成人，非常适合情侣或Honeymooners，在这裡享受一个不受打扰的宁静假期。Hurawalhi Resort还设有目前世界上最大的全玻璃水底餐厅，感觉超浪漫！酒店的浮潜环境也十分理想，设有宽敞的水上屋和沙滩屋，面积最小的也有105平方米。
 
 ![图片1](https://www.daydaytravel.hk/wp-content/uploads/2019/06/hurawalhi-island-resort.jpg)
