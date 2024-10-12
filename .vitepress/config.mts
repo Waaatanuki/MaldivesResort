@@ -3,6 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/MaldivesResort/',
   title: 'MaldivesResort',
+  head: [['link', { rel: 'icon', href: '/MaldivesResort/favicon.ico' }]],
   description: 'Maldives Resort Recommend',
   themeConfig: {
     nav: [
